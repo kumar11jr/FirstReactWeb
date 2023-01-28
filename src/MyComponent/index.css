@@ -1,0 +1,34 @@
+.navbar a:hover {
+  color: aqua;
+  
+}
+
+a:active {
+  color: aqua;
+  
+}
+
+.navbar {
+  background-color: #fff !important;
+}
+
+.navbar-brand {
+  font-size: 1.6rem !important;
+  text-transform: #565387 !important;
+}
+
+.navbar a {
+  font-size: 1.3 rem;
+  text-transform: capitalize;
+}
+
+.menu_active {
+  font-weight: bold;
+  /* border-bottom: 1px soild aqua; */
+}
+
+.Cards-all{
+  display: grid;
+  column-gap: 100px;
+  grid-row: auto;
+}
